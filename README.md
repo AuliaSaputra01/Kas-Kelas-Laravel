@@ -3,7 +3,7 @@
 
 Tugas Proyek Perangkat Lunak (Framework Laravel) — **Kelompok 5**
 
-**Link Repository:** https://github.com/<akun-pembuat>/kas-kelas  <!-- ganti dengan link asli -->
+**Link Repository:** https://github.com/AuliaSaputra01/Kas-Kelas-Laravel
 
 ---
 
@@ -94,8 +94,8 @@ Laravel 13, PHP 8.3+, MySQL, Bootstrap 5.3 (CDN), Laragon, Git & GitHub.
 ## 10. Cara Instalasi (Laragon)
 
 ```bash
-git clone https://github.com/<akun-pembuat>/kas-kelas.git
-cd kas-kelas
+git clone https://github.com/AuliaSaputra01/Kas-Kelas-Laravel.git
+cd Kas-Kelas-Laravel
 composer install
 copy .env.example .env
 php artisan key:generate
