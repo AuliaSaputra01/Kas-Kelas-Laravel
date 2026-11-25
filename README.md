@@ -15,7 +15,7 @@ Tugas Proyek Perangkat Lunak (Framework Laravel) — **Kelompok 5**
 | 2 | Reandra Akbar Pratama | 24105111014 | [reandraakbarpratama](https://github.com/reandraakbarpratama?tab=repositories) | Layout & Dashboard |
 | 3 | Zulfirman | 24105111142 | [zfmnnn40-boop](https://github.com/zfmnnn40-boop?tab=repositories) | CRUD Anggota |
 | 4 | Aidil | 24105111028 | [aidilaceh759-ctrl](https://github.com/aidilaceh759-ctrl?tab=repositories) | CRUD Transaksi Kas |
-| 5 | Daniel | 24105111166 | [85yw8](https://github.com/85yw8?tab=repositories) | Routing, konfigurasi, dokumentasi, pengujian |
+| 5 | Daniel | 24105111166 | [danielanasalim](https://github.com/85yw8?tab=repositories) | Routing, konfigurasi, dokumentasi, pengujian |
 
 ## 2. Latar Belakang
 Pencatatan kas kelas secara manual (buku atau chat grup) rawan hilang, salah hitung, dan sulit diperiksa. Aplikasi ini mencatat anggota, pemasukan, dan pengeluaran kas secara terpusat, dengan saldo yang dihitung otomatis.
