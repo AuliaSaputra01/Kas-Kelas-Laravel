@@ -137,7 +137,7 @@ Aplikasi kas kelas berjalan dengan baik: data anggota dan transaksi dapat ditamb
 - [x] Membuat aplikasi Laravel sesuai judul
 - [x] Membuat database dan fitur CRUD (Anggota dan Transaksi Kas)
 - [x] Menerapkan metode CRUD
-- [ ] Mengunggah source code ke GitHub (isi link repository di bagian atas)
+- [x] Mengunggah source code ke GitHub (isi link repository di bagian atas)
 - [ ] Setiap anggota melakukan commit sesuai tugasnya
 - [x] Membuat laporan singkat dengan README.md
 - [ ] Presentasi dan demo aplikasi
