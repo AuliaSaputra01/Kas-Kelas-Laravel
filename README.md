@@ -12,7 +12,7 @@ Tugas Proyek Perangkat Lunak (Framework Laravel) — **Kelompok 5**
 | No | Nama | NPM | GitHub | Tugas |
 |---|---|---|---|---|
 | 1 | Aulia | 24105111136 | [AuliaSaputra01](https://github.com/AuliaSaputra01) | Database (migration, model, seeder) |
-| 2 | Reandra Akbar Pratama | 24105111014 | [Profil](https://reandraakbarpratama.github.io/profile/) | Layout & Dashboard |
+| 2 | Reandra Akbar Pratama | 24105111014 | [reandraakbarpratama](https://github.com/reandraakbarpratama?tab=repositories) | Layout & Dashboard |
 | 3 | Zulfirman | 24105111142 | [zfmnnn40-boop](https://github.com/zfmnnn40-boop?tab=repositories) | CRUD Anggota |
 | 4 | Aidil | 24105111028 | [aidilaceh759-ctrl](https://github.com/aidilaceh759-ctrl?tab=repositories) | CRUD Transaksi Kas |
 | 5 | Daniel | 24105111166 | [85yw8](https://github.com/85yw8?tab=repositories) | Routing, konfigurasi, dokumentasi, pengujian |
